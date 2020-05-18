@@ -20,7 +20,7 @@
     To define this scalability concept, there comes Big O Notations or Big O analysis. Which define how much time it will take in a program to execute a single portion of our program of whole program.
 
 
-    For defining Big O notations, there is a chart called Big O Complexity chart.
+    For defining Big O notations, there is a chart called Big O Complexity chart. Chart link is https://miro.medium.com/max/2928/1*5ZLci3SuR0zM_QlZOADv8Q.jpeg
 
     Big O complexity chart is a chart of no of operations vs no of inputs/ elements. Using this chart we can assume the efficiency of a program or how much time it will take to execute. 
 
