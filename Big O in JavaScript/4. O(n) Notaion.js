@@ -1,4 +1,4 @@
-//O(n) Notation
+//O(n) Notation/ Linear Notation
 
 /*
     Suppose i'm a class 8 student, and have a pen. In my class, we are 100 students without me. Then one day randomly
