@@ -25,3 +25,23 @@
         9. Commenting
         etc.
 */
+
+
+
+
+//Good Code Example: 
+
+
+const name = ['arafath'];
+
+function findName(array){
+    for(let i = 0; i < array.length; i++){
+        if(array[i] === 'arafath'){
+            console.log('Name found!!!');
+        }
+    }
+}
+
+findName(name);
+
+
